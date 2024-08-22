@@ -2,7 +2,7 @@
 
 This is a public profile of my adventure as an independent smart contract security researcher.
 
-Currently, I'm a security researcher at [Code4rena](https://code4rena.com/), and watson at [Sherlock](https://app.sherlock.xyz/).
+Currently, I'm a security researcher at [Code4rena](https://code4rena.com/), and [Sherlock](https://app.sherlock.xyz/).
 
 I'm available for web3 security consulting and private security reviews. Please reach out to me on Twitter ([@hunter_w3b](https://twitter.com/hunter_w3b)) if you're interested.
 
